@@ -2,6 +2,8 @@
 ## Opgaverne kan enten køres i IntelliJ eller i en anden editor.
 ### Rækkefølgen 
 
+0) WhatIsWrong
+
 1) OrderOfPrec
 
 2) FormatZero
