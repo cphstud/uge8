@@ -9,7 +9,7 @@
 2) FormatZero
 
 3) ComputeBMI
-- ComputeBMI, ComputeBMIBadStyle, ComputeBMIGoodStyle, ComputeBMIGoodStyleBetter
+- ComputeBMI, ComputeBMIGlobal, ComputeBMIMaskOne, ComputeBMIMaskTwo
 
 4) ComputeVAT
 - ComputeVAT, ComputeVATBetterStyle
