@@ -6,7 +6,7 @@
  * 
  */
 import java.util.Scanner;
-public class ComputeBMIGoodStyleBetter {
+public class ComputeBMIMaskTwo {
   public static void main(String[] args){
     int userRetVal=doDiag();
     double userBMI = computeBMI(userRetVal);
@@ -14,7 +14,7 @@ public class ComputeBMIGoodStyleBetter {
   }
 
   public static int doDiag() {
-    //TODO: lav metoden doMasking
+    //TODO: indlæs data fra brugeren og lav metoden doMasking
     int retVal = doMasking(weightKg,heightM);
     return retVal;
 

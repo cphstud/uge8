@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ComputeBMIGoodStyle {
+public class ComputeBMIMaskOne {
   public static void main(String[] args){
     /*
      * FORMÅL:

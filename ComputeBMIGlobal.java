@@ -8,7 +8,7 @@
  * */
 
 import java.util.Scanner;
-public class ComputeBMIBadStyle {
+public class ComputeBMIGlobal {
   static double weightKg,heightM,BMI;
 
   public static void doDiag() {
