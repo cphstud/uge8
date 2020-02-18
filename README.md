@@ -22,3 +22,6 @@
 7) AsciiArtRandom og AsciiArtRandomLanguage 
 - de er begge tænkt som ekstraopgaver
 
+8) DataStore
+- den er også tænkt som en ekstraopgave
+
