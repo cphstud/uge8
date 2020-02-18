@@ -1,4 +1,4 @@
-# Opgaver til uge 8 - IKKE KLAR ENDNU
+# Opgaver til uge 8 - onsdag kl 8:30 IKKE KLAR ENDNU
 ## Opgaverne kan enten køres i IntelliJ eller i en anden editor.
 ### Rækkefølgen 
 
